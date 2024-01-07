@@ -46,3 +46,9 @@ body {
   font-size: 18px;
   color: #0aff00;
 }
+
+button {
+  color: #0aff00;
+  background-color: #111;
+  border: 2px solid #0a0a0a;
+}
